@@ -86,7 +86,7 @@ function FinanceScreen({ onLogout }) {
   };
 
 
-
+  
   useEffect(() => {
     fetchItems();
   }, []);
